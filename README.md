@@ -1,10 +1,12 @@
-### Hi Developers 👋
 
 
 
-I'm
-Java Spring Boot Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+
+I am a highly skilled Java Spring Boot Developer with extensive experience in designing, developing, and maintaining robust APIs. My skill set encompasses back-end development using open-source technologies such as Java, Python, and Node.js. I collaborate closely with designers to contribute to the design process and possess expertise in front-end development with React.js, HTML5, CSS3, and Javascript.
+
+In addition to my programming capabilities, I am proficient in server administration on platforms like AWS and Azure. My expertise extends to database management with MySQL and Oracle. I am well-versed in implementing CI/CD practices, utilizing Docker for containerization.
+
+Overall, my background includes a diverse range of skills that enable me to excel in various aspects of software development, from API design to server administration and database management.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/BhaskarfulllSatck/count.svg)
